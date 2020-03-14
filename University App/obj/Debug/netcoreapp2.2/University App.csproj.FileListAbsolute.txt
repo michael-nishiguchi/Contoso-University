@@ -1,0 +1,53 @@
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\bin\Debug\netcoreapp2.2\University App.deps.json
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\bin\Debug\netcoreapp2.2\University App.runtimeconfig.json
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\bin\Debug\netcoreapp2.2\University App.runtimeconfig.dev.json
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\bin\Debug\netcoreapp2.2\University App.dll
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\bin\Debug\netcoreapp2.2\University App.pdb
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\bin\Debug\netcoreapp2.2\University App.Views.dll
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\bin\Debug\netcoreapp2.2\University App.Views.pdb
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.csprojAssemblyReference.cache
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.RazorAssemblyInfo.cache
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.RazorAssemblyInfo.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.AssemblyInfoInputs.cache
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.AssemblyInfo.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.TagHelpers.input.cache
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.TagHelpers.output.cache
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.RazorCoreGenerate.cache
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Create.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Delete.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Details.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Edit.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Index.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Courses\UpdateCourseCredits.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Create.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Delete.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Details.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Edit.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Index.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.RazorTargetAssemblyInfo.cs
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.Views.pdb
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.dll
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.pdb
+C:\Users\Michael\Downloads\CIT-365-master\University App\University App\obj\Debug\netcoreapp2.2\University App.csproj.CopyComplete
